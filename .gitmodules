@@ -1,0 +1,3 @@
+[submodule "billingProject"]
+	path = billingProject
+	url = https://github.com/xsin6208/billingSystem.git
